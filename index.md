@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Klaudia M's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Klaudia M
+Software Engineer / Data Scientist wannabe
+"I eat spaghetti and clean code."
+"A decade of experience in coding, moving towards AI and ML."
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="k...@gmail.com">k...@gmail.com</a>
+| <a href="www.linkedin.com/in/k...">www.linkedin.com/in/kmatis</a>
 </div>
 
 
